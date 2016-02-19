@@ -2,6 +2,11 @@
 
 Sample project based on [scikit-learn text tutorial](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html) for identifying product from affilate marketing catalog.
 
+## Install
+```bash
+pip install scipy numpy scikit-learn
+```
+
 ## Goal
 The goal of this machine learning scripts is to predict to which product an affiliate items refer.
 
